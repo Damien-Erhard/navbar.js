@@ -50,7 +50,8 @@ a {
 }
 
 .burger {
-    width: 30px;
+    height: 50px;
+    width: auto;
     display: none;
     padding: 10px;
 }
