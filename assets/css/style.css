@@ -4,7 +4,7 @@ body {
 }
 
 .container{
-    background-color:rgb(162, 162, 162);
+    background-color:rgb(131, 131, 131);
     border: 15px;
     border-color: black;
 }
@@ -72,7 +72,7 @@ a {
     bottom: 0;
     display: none;
     position: fixed;
-    background-color: rgb(168, 168, 168);
+    background-color: rgb(117, 117, 117);
     padding: 12px;
 }
 
